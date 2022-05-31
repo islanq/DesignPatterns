@@ -1,3 +1,0 @@
-﻿  ChainOfResponsibility.cpp
-C:\Users\islan\OneDrive\Documents\Visual Studio 2017\Projects\Patterns\Patterns\ChainOfResponsibility\ChainOfResponsibility.cpp(19,1): error C3447: second operand to the conditional operator ?: is of type 'void', but the third operand is neither a throw-expression nor of type 'void'
-C:\Users\islan\OneDrive\Documents\Visual Studio 2017\Projects\Patterns\Patterns\ChainOfResponsibility\ChainOfResponsibility.cpp(76,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data

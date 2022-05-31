@@ -14,3 +14,5 @@ Patterns.sln.*
 *.pdb
 
 *.exe
+*/*/debug/
+*/debug/
