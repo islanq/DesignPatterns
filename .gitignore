@@ -1,0 +1,16 @@
+*.db
+
+Patterns.sln
+
+Patterns.sln.*
+
+*.rar
+
+*.vcxproj*
+
+/.vs/
+
+*.idb
+*.pdb
+
+*.exe

@@ -1,0 +1,3 @@
+﻿  Commander.cpp
+x:\onedrive\documents\visual studio 2017\projects\patterns\patterns\commander\commander.h(8): error C2429: language feature 'nested-namespace-definition' requires compiler flag '/std:c++latest'
+x:\onedrive\documents\visual studio 2017\projects\patterns\patterns\commander\commander2.h(5): error C2429: language feature 'nested-namespace-definition' requires compiler flag '/std:c++latest'

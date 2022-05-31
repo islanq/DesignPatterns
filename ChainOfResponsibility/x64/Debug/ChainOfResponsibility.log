@@ -1,0 +1,4 @@
+﻿  ChainOfResponsibility.cpp
+x:\onedrive\documents\visual studio 2017\projects\patterns\patterns\chainofresponsibility\chainofresponsibility.cpp(76): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ChainOfResponsibility.vcxproj -> X:\OneDrive\Documents\Visual Studio 2017\Projects\Patterns\Patterns\x64\Debug\ChainOfResponsibility.exe
+  ChainOfResponsibility.vcxproj -> X:\OneDrive\Documents\Visual Studio 2017\Projects\Patterns\Patterns\x64\Debug\ChainOfResponsibility.pdb (Partial PDB)

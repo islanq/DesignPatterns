@@ -1,0 +1,4 @@
+﻿  State.cpp
+x:\onedrive\documents\visual studio 2017\projects\patterns\patterns\state\state.cpp(88): error C3867: 'Machine::off': non-standard syntax; use '&' to create a pointer to member
+x:\onedrive\documents\visual studio 2017\projects\patterns\patterns\state\state.cpp(89): error C3867: 'Machine::on': non-standard syntax; use '&' to create a pointer to member
+x:\onedrive\documents\visual studio 2017\projects\patterns\patterns\state\state.cpp(89): error C2466: cannot allocate an array of constant size 0
