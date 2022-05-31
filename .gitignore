@@ -1,7 +1,6 @@
 *.db
 
 Patterns.sln
-
 Patterns.sln.*
 
 *.rar
@@ -12,7 +11,9 @@ Patterns.sln.*
 
 *.idb
 *.pdb
+*.tlog
 
 *.exe
 */*/debug/
 */debug/
+/*/x64/
